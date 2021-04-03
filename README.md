@@ -8,3 +8,5 @@
 - python server.py
 - python client.py
 - python client.py in another terminal
+
+<div align='center'><img src="./assets/pp.png"></div>
